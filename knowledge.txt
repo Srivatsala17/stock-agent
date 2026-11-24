@@ -1,0 +1,113 @@
+## Share (stock)
+A share is a small unit of ownership in a company. Owning shares makes you a part-owner. Share prices move with buying and selling demand, which reflects how investors view the company's future earnings, growth and risks. You can earn from price gains and from dividends, and you can lose money if the price falls.
+
+## Stock exchanges: NSE and BSE
+India's two main stock exchanges are the National Stock Exchange (NSE) and the Bombay Stock Exchange (BSE). A company can be listed on both. The main index of NSE is the Nifty 50 and the main index of BSE is the Sensex. NSE stock symbols look like RELIANCE or TCS.
+
+## SEBI
+SEBI, the Securities and Exchange Board of India, is the regulator of India's securities market. It makes rules for exchanges, brokers, listed companies, mutual funds and research analysts, and it works to protect investors. Giving investment advice or publishing research on securities generally requires SEBI registration.
+
+## Trading hours
+Normal trading on NSE and BSE runs from 9:15 AM to 3:30 PM IST, Monday to Friday, except exchange holidays. A short pre-open session before 9:15 AM helps set opening prices. Prices shown outside these hours are the last traded prices of the previous session. Timings can change, so check NSE or BSE for the current schedule.
+
+## Demat and trading account
+To buy shares in India you need a demat account, which holds shares in electronic form, and a trading account with a broker to place orders. Both are linked to your bank account. Demat accounts are held with depositories (NSDL or CDSL) through a depository participant, usually your broker.
+
+## Settlement (T+1)
+Settlement is when shares and money actually change hands after a trade. Indian equity markets follow T+1 settlement, meaning a trade made on day T is settled on the next working day. Rules can change, so check the exchange for the current cycle.
+
+## Order types: market, limit and stop-loss
+A market order buys or sells immediately at the best available price. A limit order sets the price you are willing to pay or accept and only executes if the market reaches it. A stop-loss order is triggered when the price falls to a level you choose, to limit a loss. In thinly traded shares, market orders can execute at poor prices, so limit orders are often safer.
+
+## Intraday vs delivery trading
+In intraday trading you buy and sell the same stock on the same day, and open positions are squared off by the end of the day. In delivery trading you keep the shares in your demat account for longer. Intraday trading is fast and high risk, and many beginners lose money in it. Delivery suits people who want to hold for months or years.
+
+## Volume and liquidity
+Volume is the number of shares traded in a period. Liquidity is how easily you can buy or sell without moving the price. Shares with low volume often have a wide gap between buying and selling prices and can be hard to sell when you want to exit. This agent skips very low-volume stocks when it screens the market.
+
+## Market capitalization
+Market capitalization is the share price multiplied by the number of shares the company has issued. It shows the size of the company. Under SEBI's mutual fund categorisation, the top 100 listed companies by market cap are large caps, ranks 101 to 250 are mid caps, and ranks 251 onwards are small caps. The list is updated every six months. Smaller companies tend to be more volatile.
+
+## P/E ratio
+The price-to-earnings (P/E) ratio is the share price divided by the company's earnings per share. It shows how many rupees investors pay for one rupee of yearly profit. A high P/E can mean investors expect strong growth, or that the stock is expensive. A low P/E can mean the stock is cheap, or that the market expects weak earnings. P/E is best compared with other companies in the same sector and with the company's own history. A company with losses has no meaningful P/E.
+
+## EPS (earnings per share)
+Earnings per share is a company's profit after tax divided by its number of shares. Rising EPS over several years usually signals a growing business. EPS is the number used to calculate the P/E ratio.
+
+## P/B ratio
+The price-to-book (P/B) ratio compares the share price with the company's book value per share, which is roughly its assets minus its liabilities divided by the number of shares. It is commonly used for banks and other asset-heavy businesses. A low P/B is not automatically a bargain, because the assets may be worth less than their stated value.
+
+## ROE (return on equity)
+Return on equity is net profit divided by shareholders' equity, shown as a percentage. It shows how well a company turns shareholders' money into profit. Consistently high ROE is generally a sign of a strong business, but very high ROE can also come from heavy debt, so check it together with debt.
+
+## Debt-to-equity ratio
+Debt-to-equity compares a company's borrowings with its shareholders' equity. A higher ratio means the company relies more on borrowed money, which raises risk when profits fall or interest rates rise. What counts as normal differs by sector, and banks and finance companies are judged differently from other businesses.
+
+## Dividend and dividend yield
+A dividend is a share of profit paid to shareholders. Dividend yield is the yearly dividend per share divided by the share price. Companies are not obliged to pay dividends. To receive a dividend you must own the share before the ex-dividend date, and the price usually adjusts down by about the dividend amount on that date.
+
+## Stock split and bonus issue
+In a stock split, a company divides each share into more shares, which lowers the price per share but not the total value of your holding. In a bonus issue, a company gives existing shareholders extra free shares, and the price adjusts down in proportion. Neither one creates value by itself. They mostly make shares more affordable and more liquid.
+
+## Rights issue
+In a rights issue, a company offers existing shareholders the chance to buy new shares, usually at a discount, in proportion to what they already hold. Shareholders can take up the offer or let it go. A company often uses a rights issue to raise money.
+
+## IPO (initial public offering)
+An IPO is the first time a company sells its shares to the public, so that they can be listed and traded on an exchange. Investors apply through their broker or bank, usually using UPI. If an IPO is oversubscribed, shares are allotted by lottery for small applicants. Listing day prices can be well above or below the issue price, and an IPO is not a guaranteed gain. The grey market premium (GMP) is an unofficial indicator and is not reliable.
+
+## Circuit limits (price bands)
+Exchanges set a daily price band for most stocks, so the price cannot rise or fall beyond a certain percentage from the previous close in one day. Common bands are 2%, 5%, 10% and 20%. When a stock reaches the top of its band it is in the upper circuit, and at the bottom it is in the lower circuit. Trading in that direction stops for the day, so buyers or sellers can be stuck with no one on the other side. Stocks with derivatives contracts are not subject to fixed bands in the same way. Bands can be changed by the exchange.
+
+## Market-wide circuit breakers
+Apart from limits on single stocks, exchanges can pause trading across the whole market if a main index like the Nifty or Sensex falls or rises sharply in a day. The trigger levels are 10%, 15% and 20% index moves, and each level pauses trading for a period that depends on the time of day. These are rare events.
+
+## 52-week high and low
+The 52-week high and low are the highest and lowest prices a stock has traded at in the past year. They show where the current price sits in its yearly range. A stock near its 52-week high is not necessarily expensive, and a stock near its low is not necessarily a bargain.
+
+## Bull and bear markets
+A bull market is a long period of generally rising prices, with optimism among investors. A bear market is a long period of falling prices, usually described as a fall of 20% or more from a recent peak, with pessimism among investors.
+
+## Volatility
+Volatility measures how much and how fast a price moves up and down. It is usually calculated from daily price changes and shown as a yearly percentage. A stock with high volatility can rise or fall sharply in a short time, so it carries more risk. Low-priced and small-company stocks are often more volatile.
+
+## Maximum drawdown
+Maximum drawdown is the biggest fall from a peak to a later low during a period. If a stock rose to 100 and later dropped to 70 before recovering, its maximum drawdown is 30%. It shows how painful the worst stretch was for someone holding the stock.
+
+## Moving averages and the 200-day average
+A moving average is the average closing price over the last several days, which smooths out day-to-day noise. The 200-day moving average is widely watched as a long-term trend line. A price above its 200-day average is commonly read as an uptrend, and below it as a downtrend. It describes the past and does not predict the future.
+
+## Nifty 50 and Sensex
+The Nifty 50 is an index of 50 large NSE-listed companies and the Sensex is an index of 30 large BSE-listed companies. They are used as a quick measure of how the broad Indian market is doing. Index funds and ETFs let investors hold a basket that tracks an index.
+
+## FII, FPI and DII
+FII or FPI means foreign institutional or portfolio investors, and DII means domestic institutional investors such as mutual funds and insurance companies. Large buying or selling by these groups can move the market, so their daily flow figures are closely watched. Flows are one of many factors and do not guarantee market direction.
+
+## Promoter holding and pledging
+Promoters are the founders or controlling owners of a company. Promoter holding is the percentage of shares they own. Pledging means promoters have used some of their shares as security for a loan. High pledging is seen as a risk because if the price falls, lenders can sell the pledged shares and push the price down further.
+
+## Penny stocks and low-priced stocks
+A low share price does not mean a stock is cheap. A share priced at 10 rupees can be more expensive in terms of company value than one priced at 1,000 rupees. Very low-priced stocks are often small companies with low liquidity, large price swings, tight circuit limits and a higher chance of price manipulation. They can be hard to sell when you want to. Check volume, company profits and debt before treating any low-priced stock as an opportunity.
+
+## Surveillance measures (ASM and GSM)
+Exchanges place some stocks under extra surveillance when prices or volumes move in unusual ways. Frameworks such as ASM (Additional Surveillance Measure) and GSM (Graded Surveillance Measure) can bring stricter margin requirements and trading limits for those stocks. Being on a surveillance list is a warning sign that a stock needs extra caution.
+
+## Trade-for-trade segment
+Some stocks trade in a trade-for-trade segment, where every purchase must be settled by taking delivery. You cannot square off a position within the same day for profit or loss. Exchanges move stocks there to discourage speculation.
+
+## Futures and options (F&O)
+Futures and options are derivatives, contracts whose value comes from an underlying share or index. They use leverage, so small price moves can lead to large gains or large losses, and a loss can be bigger than the money first put in. SEBI studies have found that most individual traders in F&O lose money. They are not suitable for beginners.
+
+## Diversification
+Diversification means spreading money across different stocks, sectors and asset types so that one bad outcome does not hurt too much. It lowers risk but does not remove it. Putting all your money in one low-priced stock or one sector is a concentrated and risky approach.
+
+## Why stock prices move
+Share prices move because of changes in demand and supply. Common reasons include quarterly results, company news, orders or contracts, sector trends, government policy, interest rates, global markets, foreign investor flows and rumours. Often there is no single clear reason for a move, and explanations given afterwards are guesses. A big one-day move without news can be a sign of speculation.
+
+## Capital gains tax on shares
+Profit from selling shares is taxed as capital gains. Listed shares held for more than 12 months are treated as long-term, and shares held for less are short-term. The tax rates and exemption limits change with government budgets, so check the Income Tax Department website or a tax professional for current rules.
+
+## How this agent's screeners work
+The top-gainers screener ranks stocks in your price range by today's percentage change and shows their 1-week change. The consistent-performers screener looks at one year of prices and keeps stocks with a positive 1-year return, mostly positive months, no very large fall from a peak, and a price above the 200-day average. It ranks them by a consistency score, which is the 1-year return divided by volatility, so a steady climb scores higher than a wild one. The exact limits are settings in the code and can be changed. Prices come from a free data source and can be delayed or incomplete.
+
+## About this knowledge base
+These notes are written for learning and explain general concepts. Rules, limits and numbers in Indian markets change over time. For official and current information, check NSE, BSE, SEBI and company filings. Nothing here is investment advice.

@@ -1,0 +1,11 @@
+.env
+venv/
+__pycache__/
+.idea/
+chroma_db/
+market_cache.csv
+year_cache.csv
+user_profile.json
+agent_log.jsonl
+test_log.jsonl
+EQUITY_L.csv
